@@ -15,10 +15,10 @@
     "@types/jest": "26.0.24",
     "@types/jwt-decode": "2.2.1",
     "@types/lodash.get": "4.4.6",
-    "@types/node": "14.17.21",
+    "@types/node": "14.17.32",
     "@types/pizzip": "3.0.2",
-    "@types/react": "17.0.27",
-    "@types/react-custom-scrollbars": "4.0.8",
+    "@types/react": "17.0.33",
+    "@types/react-custom-scrollbars": "4.0.9",
     "@types/react-dom": "17.0.5",
     "@types/react-google-recaptcha": "2.1.2",
     "@types/react-linkify": "1.0.1",
@@ -31,7 +31,7 @@
     "axios": "0.21.4",
     "babel-plugin-import": "1.13.3",
     "babel-plugin-import-graphql": "2.8.1",
-    "babel-plugin-styled-components": "1.13.2",
+    "babel-plugin-styled-components": "1.13.3",
     "bundlesize": "0.18.1",
     "concurrently": "6.2.2",
     "customize-cra": "1.0.0",
@@ -66,8 +66,8 @@
     "styled-components": "5.3.1",
     "subscriptions-transport-ws": "0.9.19",
     "typescript": "4.3.5",
-    "web-vitals": "2.1.0",
-    "xlsx": "0.17.2"
+    "web-vitals": "2.1.2",
+    "xlsx": "0.17.3"
   },
   "scripts": {
     "start": "rimraf ./node_modules/.cache/babel-loader && yarn codegen && react-app-rewired start",
